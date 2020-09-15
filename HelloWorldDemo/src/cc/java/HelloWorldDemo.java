@@ -11,9 +11,11 @@ public class HelloWorldDemo {
 			static int b = 4;
 			
 			1111
+			2222
+			1111
 		}
 		
-		
+
 		// TODO Auto-generated method stub
 
 	}
